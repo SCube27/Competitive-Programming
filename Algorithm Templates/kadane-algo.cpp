@@ -24,3 +24,5 @@ int main() {
     int n = 8;
     solve(arr, n);    
 }
+
+// This algorithm uses single loop traversal. The main principle is that if the sum is -ve then don't consider the subarray.
